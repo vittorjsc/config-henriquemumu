@@ -5,8 +5,8 @@
   "cor_destaque": "#f7b520",
   "fonte_titulo": "Montserrat",
   "fonte_texto": "Poppins",
-  "logo_url": "https://cdn.exemplo.com/logo-mumu.svg",
-  "foto_agente_url": "https://cdn.exemplo.com/henrique-ramos.png",
+  "logo_url": "https://raw.githubusercontent.com/vittorjsc/config-henriquemumu/refs/heads/main/data/AGENCIA-MUMU-FEED-_1080-x-1350-px_-_2_.svg",
+  "foto_agente_url": "https://raw.githubusercontent.com/vittorjsc/config-henriquemumu/refs/heads/main/data/ChatGPT-Image-Jul-13_-2025_-10_26_09-PM.svg",
   "nome_agente": "Henrique Ramos",
   "cargo_agente": "Assistente de IA da Agência MuMu"
 }
