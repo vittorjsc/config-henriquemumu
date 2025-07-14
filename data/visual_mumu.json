@@ -1,0 +1,12 @@
+{
+  "cor_primaria": "#111176",
+  "cor_secundaria": "#8200c7",
+  "cor_fundo": "#ebe6e3",
+  "cor_destaque": "#f7b520",
+  "fonte_titulo": "Montserrat",
+  "fonte_texto": "Poppins",
+  "logo_url": "https://cdn.exemplo.com/logo-mumu.svg",
+  "foto_agente_url": "https://cdn.exemplo.com/henrique-ramos.png",
+  "nome_agente": "Henrique Ramos",
+  "cargo_agente": "Assistente de IA da Agência MuMu"
+}
